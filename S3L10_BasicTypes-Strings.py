@@ -11,7 +11,6 @@ print("This costs " + str(6) + "  Dollars")
 print("This Costs " + str (6+5) + " Dollars")
 print("My name is " + "Hello:NICK:WORLD".split(":")[1])
 
-
 #OUTPUT
 #Hello String
 #Hello
