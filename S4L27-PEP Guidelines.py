@@ -1,7 +1,6 @@
 #This section is about writing Python Syntax
 import os
 import sys
-
 def my_functions(one,two,
                  three,four,
                  five,six):
